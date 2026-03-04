@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* color: aliceblue; */
+}
+
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+    height:750px;
+    
+}
+
+.main{
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+.main img{
+    width: 150px;
+    height: 150px;
+}
+
+h1{
+    padding: 10px;
+    font-size: 40px;
+
+}
+
+.Choice{
+    padding: 22px;
+    font-size: 20px;
+}
+
+div{
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.Rockpapsc{
+    padding: 15px;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
